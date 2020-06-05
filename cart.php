@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Pc Accessories Shopping Mall</title>
+<title>PC Accessories Online Store</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="myweb.css">
