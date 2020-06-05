@@ -12,9 +12,9 @@
 </div>
 
 <div class="navbar">
-  <a href="index.html">Home</a>
-  <a href="new.html">New Product</a>
-  <a href="s2.html">Second-Hand Product</a>
+<a href="index.php">Home</a>
+  <a href="new.php">New Procduct</a>
+  <a href="s2.php">Second Hand</a>
   <button class="right" onclick="window.location.href='register.html'"><b>Register Or Login</b></button>
   <button class="right" onclick="window.location.href='cart.html'"><b>Cart</b></button>
 </div>

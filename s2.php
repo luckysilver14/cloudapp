@@ -78,20 +78,45 @@
 	
   </div>
 </div>
-<div class="footer">
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="img/img_avatar.png" alt="avatar" class="avatar" style="width:100%">
-      <div class="container">
-        <h2>Mai Xuan Nghia</h2>
-        <p class="title">Creater</p>
-        <p>Demo for submition assignment</p>
-        <p>nghiamxgd18432@fpt.edu.com</p>
-        <p><button class="button">Contact</button></p>
+<<div class="footer">
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="img/img_avatar.png" alt="avatar" class="avatar" style="width:100%">
+        <div class="container">
+          <h2>Truong Vi Kiet</h2>
+          <p class="title">Creator</p>
+          <p>Demo for lab submission</p>
+          <p>kiettvgcd191129@fpt.edu.com</p>
+          <p><button class="button">Contact</button></p>
+        </div>
       </div>
     </div>
-  </div>
+  
+    <div class="column">
+      <div class="card">
+        <div class="container">
+          <h2>Our shop in Vietnam</h2>
+          <p class="title">Branches:</p>
+          <a class="ta" href="#">Hà Nội>></a>
+      124 Hoang Hoa Tham, Cau Giay, Ha Noi.
+      <br><br>
+      <a  class="ta" href="#">Đà Nẵng>></a>
+      324 Phan Chau Trinh, Hai Chau, Da Nang
+      <br><br>
+      <a class="ta" href="#">Sài Gòn>></a>
+      130 Le Thanh Tong, Binh Thanh, Sai Gon
+          <br><br>
+      <a class="ta" href="#">Cần Thơ>></a>
+      2nd Floor, Complex Building, Ngo Van, Can Tho
+      <style>
+      .ta{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
 
   <div class="column">
     <div class="card">
